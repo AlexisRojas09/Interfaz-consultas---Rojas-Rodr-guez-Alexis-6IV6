@@ -1,4 +1,5 @@
 """
+Alexis Rojas Rodríguez 6IV6
 Interfaz gráfica para consultas de Spotify
 Basado en un proyecto anterior pero adaptado para este nuevo dataset :D
 
